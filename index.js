@@ -1,6 +1,6 @@
 let timerId; // переменная, которая будет хранить ID таймера
 
-
+sddds
 const startButton = ДОКУМЕНТ.ГЕТэЛЕМЕНТбАЙаЙДИ(КАКОЙ - ТО);
 startButton.ЭДэВЕНТлИСТНЕР('ТЯП', function () {
     // НУЖНО ПОГУГЛИТЬ ЧТО ТАКОЕ setInterval
